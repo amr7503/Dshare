@@ -1,4 +1,4 @@
-# Dshare: A File Storing and Sharing Webapp
+# DShare WebApp 📨 : A File Storing and Sharing Webapp
 
 ## Overview
 Dshare is a web application designed for storing and sharing files. It provides user-friendly interfaces for file uploads, sharing, user authentication, and more. The application is built with HTML, CSS, PHP, and utilizes a database(MySql) for data management.
